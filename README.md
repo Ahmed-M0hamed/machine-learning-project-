@@ -1,1 +1,3 @@
-# machine-learning-project-
+# machine-learning-project
+this repo is for different machine learinig projects like kaggle competitions 
+each dir contain jupyter notebook for the solution and file contain some info and the competition link 
